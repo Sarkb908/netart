@@ -6,14 +6,17 @@
 
 <p id="log"> Welcome to the world of real awful fun</p>
 
-<button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="myFunction()">Let's Play</button>
 
 <script>
-    $(document).ready(function()){
-    
-                  }
+   $(document).ready(function(){
+    $("button").click(function(){
+        $("#test").hide();
+    });
+});
     
 </script>
 
 </body>
 </html>
+
