@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Chill Pill Decision Making Game</h1>
+
+<p id="log"> Welcome to the world of real awful fun</p>
+
+<button type="button" onclick="myFunction()">Try it</button>
+
+<script>
+    $(document).ready(function()){
+    
+                  }
+    
+</script>
+
+</body>
+</html>
